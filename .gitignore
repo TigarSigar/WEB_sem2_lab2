@@ -1,2 +1,13 @@
-/.idea/
-/target/
+# Сборка
+target/
+build/
+.gradle/
+
+# Настройки IDE
+.idea/
+*.iml
+out/
+
+# Система
+.DS_Store
+Thumbs.db
